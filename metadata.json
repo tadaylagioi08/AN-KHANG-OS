@@ -1,0 +1,6 @@
+{
+  "name": "Khang An OS - PostgreSQL Supabase ERP Schema",
+  "description": "Kiến trúc Cơ sở dữ liệu PostgreSQL & Schema Supabase chuẩn ERP cho Khang An Badminton - FIFO SELECT FOR UPDATE, 18 Bảng, RLS Phân Quyền 12 Roles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
